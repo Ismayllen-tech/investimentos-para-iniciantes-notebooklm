@@ -1,9 +1,9 @@
-###📘 Miniguia de Investimentos para Iniciantes
+### 📘 Miniguia de Investimentos para Iniciantes
 
 Projeto de estudo baseado em materiais institucionais oficiais e desenvolvido com apoio de IA para consolidação de conhecimento.
 
 
-##1️⃣ Introdução
+## 1️⃣ Introdução
 
 Investir é o processo de aplicar recursos com o objetivo de gerar retorno futuro.
 Diferente de simplesmente poupar, investir envolve:
@@ -20,7 +20,7 @@ Tesouro Direto
 Fundação Getulio Vargas
 
 
-##2️⃣ Fundamentos do Investimento
+## 2️⃣ Fundamentos do Investimento
 📌 O que é investir?
 Aplicar dinheiro hoje com a expectativa de obter ganho futuro, assumindo algum nível de risco.
 
