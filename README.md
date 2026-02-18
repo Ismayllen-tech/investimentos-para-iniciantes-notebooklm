@@ -23,6 +23,11 @@ Construir um caderno temático com fontes institucionais abertas e aplicar técn
 - log-de-prompts.md
 - referencias.md
 
+## 🛠 Ferramentas Utilizadas
+- NotebookLM
+- GitHub
+- Markdown
+
 ---
 
 Projeto educacional para fins de estudo.
