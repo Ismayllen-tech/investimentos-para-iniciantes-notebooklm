@@ -1,4 +1,4 @@
-### 📘 Miniguia de Investimentos para Iniciantes
+## 📘 Miniguia de Investimentos para Iniciantes
 
 Projeto de estudo baseado em materiais institucionais oficiais e desenvolvido com apoio de IA para consolidação de conhecimento.
 
@@ -37,7 +37,7 @@ Se um investimento rende menos que a inflação, ocorre perda real de poder de c
 
 
 
-##3️⃣ Risco, Retorno e Liquidez
+## 3️⃣ Risco, Retorno e Liquidez
 🔹 Risco
 Probabilidade de perda ou oscilação negativa.
 Principais tipos:
@@ -57,7 +57,7 @@ Tesouro Selic → Alta liquidez
 Ações → Liquidez depende do mercado
 
 
-##4️⃣ Renda Fixa vs Renda Variável
+## 4️⃣ Renda Fixa vs Renda Variável
 Segundo materiais da CVM e da B3:
 📌 Renda Fixa
 Regras de remuneração definidas previamente
@@ -70,7 +70,7 @@ Sofre oscilações conforme oferta e demanda
 Pode gerar maiores ganhos (ou perdas)
 
 
-##5️⃣ Títulos Públicos (Tesouro Direto)
+## 5️⃣ Títulos Públicos (Tesouro Direto)
 📌 Tesouro Selic
 Indicado para reserva de emergência
 Baixo risco
@@ -86,7 +86,7 @@ Taxa definida no momento da compra
 Pode gerar ganho ou perda se vendido antes do vencimento
 
 
-##6️⃣ Perfil de Investidor
+## 6️⃣ Perfil de Investidor
 
 Classificação baseada na tolerância ao risco, objetivos e horizonte de investimento.
 
@@ -109,7 +109,7 @@ Diversificar é distribuir investimentos entre diferentes ativos para reduzir ri
 30% Renda Variável
 
 
-##8️⃣ Erros Comuns de Iniciantes
+## 8️⃣ Erros Comuns de Iniciantes
 
 Investir sem reserva de emergência
 Ignorar inflação
@@ -118,7 +118,7 @@ Não entender o produto antes de investir
 Não diversificar
 
 
-##9️⃣ Glossário Essencial
+## 9️⃣ Glossário Essencial
 
 IPCA (Índice Nacional de Preços ao Consumidor Amplo)
 Principal indicador oficial de inflação no Brasil.
@@ -165,7 +165,7 @@ Taxa usada como referência em produtos de renda fixa.
 Suitability
 Princípio regulatório que determina adequação do produto ao perfil do investidor.
 
-##🔟 Prompts Reutilizáveis para Revisão
+## 🔟 Prompts Reutilizáveis para Revisão
 
 ✔ Resuma os conceitos principais em 15 tópicos.
 ✔ Compare renda fixa e variável em tabela.
@@ -175,7 +175,7 @@ Princípio regulatório que determina adequação do produto ao perfil do invest
 ✔ Liste diferenças entre Tesouro Selic e IPCA.
 
 
-##🧠 Metodologia de Aprendizagem
+## 🧠 Metodologia de Aprendizagem
 
 Este miniguia foi construído por meio de:
 Curadoria de fontes abertas
@@ -189,7 +189,7 @@ Comparar fontes
 Consolidar conhecimento de forma estruturada
 
 
-##📎 Referências Utilizadas
+## 📎 Referências Utilizadas
 
 Materiais institucionais públicos de:
 Banco Central do Brasil
