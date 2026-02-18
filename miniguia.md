@@ -1,4 +1,4 @@
-## 📘 Miniguia de Investimentos para Iniciantes
+# 📘 Miniguia de Investimentos para Iniciantes
 
 Projeto de estudo baseado em materiais institucionais oficiais e desenvolvido com apoio de IA para consolidação de conhecimento.
 
@@ -135,7 +135,7 @@ Facilidade de converter um investimento em dinheiro.
 Diversificação
 Distribuição de investimentos para reduzir risco total.
 
-# Retorno Real
+### Retorno Real
 Rendimento descontando a inflação.
 
 Marcação a Mercado
