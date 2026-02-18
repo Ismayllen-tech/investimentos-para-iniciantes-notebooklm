@@ -1,6 +1,8 @@
 # 📘 Investimentos para Iniciantes — NotebookLM
 
-Este projeto foi desenvolvido como exercício de aprendizagem ativa utilizando o NotebookLM.
+Este repositório contém um projeto de estudo desenvolvido como parte do desafio da DIO:
+
+🎓 **Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM**
 
 ## 🎯 Objetivo
 Construir um caderno temático com fontes institucionais abertas e aplicar técnicas de prompt engineering para consolidar conhecimento sobre investimentos básicos.
@@ -30,4 +32,5 @@ Construir um caderno temático com fontes institucionais abertas e aplicar técn
 
 ---
 
-Projeto educacional para fins de estudo.
+
+📌 Projeto educacional para fins de estudo e prática de aprendizagem ativa com IA.
