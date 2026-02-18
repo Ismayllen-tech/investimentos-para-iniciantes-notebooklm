@@ -101,7 +101,7 @@ Busca equilíbrio entre segurança e retorno
 Aceita maior volatilidade
 Maior exposição à renda variável
 
-##7️⃣ Diversificação
+## 7️⃣ Diversificação
 
 Diversificar é distribuir investimentos entre diferentes ativos para reduzir risco específico.
 📊 Exemplo simples de carteira iniciante:
@@ -135,7 +135,7 @@ Facilidade de converter um investimento em dinheiro.
 Diversificação
 Distribuição de investimentos para reduzir risco total.
 
-Retorno Real
+# Retorno Real
 Rendimento descontando a inflação.
 
 Marcação a Mercado
