@@ -9,7 +9,6 @@ Construir um caderno temático com fontes institucionais abertas e aplicar técn
 - Banco Central do Brasil
 - Comissão de Valores Mobiliários
 - Tesouro Direto
-- B3
 - Fundação Getulio Vargas
 
 ## 🧪 Metodologia
