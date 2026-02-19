@@ -1,5 +1,9 @@
 # 📘 Investimentos para Iniciantes — NotebookLM
 
+![Status](https://img.shields.io/badge/status-educational-blue)
+![AI Powered](https://img.shields.io/badge/AI-NotebookLM-purple)
+![License](https://img.shields.io/badge/license-Educational-green)
+
 Este repositório contém um projeto de estudo desenvolvido como parte do desafio da DIO:
 
 🎓 **Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM**
