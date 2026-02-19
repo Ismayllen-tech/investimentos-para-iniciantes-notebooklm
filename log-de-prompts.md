@@ -9,7 +9,7 @@ Obter uma síntese organizada dos principais conceitos presentes nas fontes, ser
 
 * Resumo da resposta do NotebookLM:
 O NotebookLM apresentou um resumo dividido em cinco seções principais:
-1 - Objetivo de investir — Explicou que investir visa preservar e aumentar o patrimônio ao longo do tempo, especialmente acima da inflação, citando materiais do Banco Central e da CVM.
+** 1 - Objetivo de investir — Explicou que investir visa preservar e aumentar o patrimônio ao longo do tempo, especialmente acima da inflação, citando materiais do Banco Central e da CVM.
 2 - Risco x Retorno — Destacou que investimentos com maior potencial de retorno apresentam maior risco, reforçando a relação direta entre essas variáveis conforme explicado pela CVM.
 3 - Liquidez — Definiu como a facilidade de converter um ativo em dinheiro sem perdas significativas, com exemplos como Tesouro Selic (alta liquidez).
 4 - Renda fixa x renda variável — Diferenciou previsibilidade e menor risco da renda fixa versus volatilidade e maior potencial de ganho da renda variável.
