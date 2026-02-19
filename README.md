@@ -5,7 +5,10 @@
 ![License](https://img.shields.io/badge/license-Educational-green)
 
 
-[![NotebookLM](https://img.shields.io/badge/View-NotebookLM-blue?logo=google)](https://notebooklm.google.com/notebook/c12d1d35-29a6-4b7c-bc27-2c8585946aeb)
+## 🔗 Acesse o Caderno no NotebookLM
+📘 Visualize o caderno completo aqui:  
+👉 [Abrir no NotebookLM](https://notebooklm.google.com/notebook/c12d1d35-29a6-4b7c-bc27-2c8585946aeb)
+
 
 
 
