@@ -47,7 +47,7 @@ Risco de liquidez
 
 🔹 Retorno
 * É o ganho esperado do investimento.
-📌 Relação fundamental:
+  📌 Relação fundamental:
 * Maior retorno potencial → Maior risco
 
 🔹 Liquidez
@@ -106,8 +106,8 @@ Maior exposição à renda variável
 
 Diversificar é distribuir investimentos entre diferentes ativos para reduzir risco específico.
 📊 Exemplo simples de carteira iniciante:
-70% Renda Fixa
-30% Renda Variável
+* 70% Renda Fixa
+* 30% Renda Variável
 
 
 ## 8️⃣ Erros Comuns de Iniciantes
