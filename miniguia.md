@@ -166,14 +166,17 @@ Taxa usada como referência em produtos de renda fixa.
 ### Suitability
 Princípio regulatório que determina adequação do produto ao perfil do investidor.
 
+
+
 ## 🔟 Prompts Reutilizáveis para Revisão
 
 ### ✔ Resuma os conceitos principais em 15 tópicos.
 ### ✔ Compare renda fixa e variável em tabela.
-####✔ Explique risco x retorno para iniciantes.
+### ✔ Explique risco x retorno para iniciantes.
 ### ✔ Simule carteira conservadora com R$ 2.000.
 ### ✔ Gere 8 questões de múltipla escolha com gabarito.
 ### ✔ Liste diferenças entre Tesouro Selic e IPCA.
+
 
 
 ## 🧠 Metodologia de Aprendizagem
@@ -188,6 +191,7 @@ Princípio regulatório que determina adequação do produto ao perfil do invest
 * Organizar informações
 * Comparar fontes
 * Consolidar conhecimento de forma estruturada
+
 
 
 ## 📎 Referências Utilizadas
