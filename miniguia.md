@@ -25,9 +25,9 @@ Fundação Getulio Vargas
 Aplicar dinheiro hoje com a expectativa de obter ganho futuro, assumindo algum nível de risco.
 
 📌 Diferença entre poupar e investir
-Poupar:
+* Poupar:
 Guardar dinheiro, geralmente com baixa rentabilidade.
-Investir:
+* Investir:
 Buscar crescimento do capital acima da inflação.
 
 📌 Inflação
