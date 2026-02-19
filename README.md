@@ -4,6 +4,11 @@
 ![AI Powered](https://img.shields.io/badge/AI-NotebookLM-purple)
 ![License](https://img.shields.io/badge/license-Educational-green)
 
+
+[![NotebookLM](https://img.shields.io/badge/View-NotebookLM-blue?logo=google)](https://notebooklm.google.com/notebook/c12d1d35-29a6-4b7c-bc27-2c8585946aeb)
+
+
+
 Este repositório contém um projeto de estudo desenvolvido como parte do desafio da DIO:
 
 🎓 **Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM**
