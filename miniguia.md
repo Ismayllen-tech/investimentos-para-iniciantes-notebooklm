@@ -120,49 +120,49 @@ Não diversificar
 
 ## 9️⃣ Glossário Essencial
 
-IPCA (Índice Nacional de Preços ao Consumidor Amplo)
+### IPCA (Índice Nacional de Preços ao Consumidor Amplo)
 Principal indicador oficial de inflação no Brasil.
 
-Selic
+### Selic
 Taxa básica de juros da economia brasileira.
 
-Volatilidade
+### Volatilidade
 Intensidade das oscilações de preço de um ativo.
 
-Liquidez
+### Liquidez
 Facilidade de converter um investimento em dinheiro.
 
-Diversificação
+### Diversificação
 Distribuição de investimentos para reduzir risco total.
 
 ### Retorno Real
 Rendimento descontando a inflação.
 
-Marcação a Mercado
+### Marcação a Mercado
 Atualização diária do preço de um título conforme condições atuais.
 
-Risco de Crédito
+### Risco de Crédito
 Probabilidade de o emissor não cumprir suas obrigações.
 
-Risco de Mercado
+### Risco de Mercado
 Possibilidade de perdas por variações econômicas.
 
-Perfil de Investidor
+### Perfil de Investidor
 Classificação conforme tolerância ao risco.
 
-Renda Fixa
+### Renda Fixa
 Investimentos com regras definidas previamente.
 
-Renda Variável
+### Renda Variável
 Investimentos com retorno dependente do mercado.
 
-Reserva de Emergência
+### Reserva de Emergência
 Valor aplicado com alta liquidez e baixo risco para imprevistos.
 
-CDI (Certificado de Depósito Interbancário)
+### CDI (Certificado de Depósito Interbancário)
 Taxa usada como referência em produtos de renda fixa.
 
-Suitability
+### Suitability
 Princípio regulatório que determina adequação do produto ao perfil do investidor.
 
 ## 🔟 Prompts Reutilizáveis para Revisão
