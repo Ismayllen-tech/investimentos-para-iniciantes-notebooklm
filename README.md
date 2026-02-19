@@ -2,7 +2,8 @@
 
 ![Status](https://img.shields.io/badge/status-educational-blue)
 ![AI Powered](https://img.shields.io/badge/AI-NotebookLM-purple)
-![License](https://img.shields.io/badge/license-Educational-green)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 
 ## 🔗 Acesse o Caderno no NotebookLM
@@ -42,7 +43,9 @@ Construir um caderno temático com fontes institucionais abertas e aplicar técn
 - GitHub
 - Markdown
 
----
+## 📜 License
+This project is licensed under the MIT License.
 
+---
 
 📌 Projeto educacional para fins de estudo e prática de aprendizagem ativa com IA.
