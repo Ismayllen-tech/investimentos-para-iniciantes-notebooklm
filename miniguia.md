@@ -46,12 +46,12 @@ Risco de crédito
 Risco de liquidez
 
 🔹 Retorno
-É o ganho esperado do investimento.
+* É o ganho esperado do investimento.
 📌 Relação fundamental:
-Maior retorno potencial → Maior risco
+* Maior retorno potencial → Maior risco
 
 🔹 Liquidez
-Facilidade de transformar um investimento em dinheiro.
+* Facilidade de transformar um investimento em dinheiro.
 Exemplos:
 Tesouro Selic → Alta liquidez
 Ações → Liquidez depende do mercado
@@ -59,6 +59,7 @@ Ações → Liquidez depende do mercado
 
 ## 4️⃣ Renda Fixa vs Renda Variável
 Segundo materiais da CVM e da B3:
+
 📌 Renda Fixa
 Regras de remuneração definidas previamente
 Maior previsibilidade
