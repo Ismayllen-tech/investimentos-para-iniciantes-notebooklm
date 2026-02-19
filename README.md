@@ -12,7 +12,7 @@
 
 
 
-Este repositório contém um projeto de estudo desenvolvido como parte do desafio da DIO:
+## Este repositório contém um projeto de estudo desenvolvido como parte do desafio da DIO:
 
 🎓 **Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM**
 
