@@ -79,7 +79,6 @@ O desenvolvimento seguiu uma abordagem estruturada:
 - NotebookLM  
 - GitHub  
 - Markdown  
-- Técnicas de Prompt Engineering  
 
 ---
 
