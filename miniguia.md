@@ -105,18 +105,18 @@ Maior exposição à renda variável
 ## 7️⃣ Diversificação
 
 Diversificar é distribuir investimentos entre diferentes ativos para reduzir risco específico.
-📊 Exemplo simples de carteira iniciante:
+### 📊 Exemplo simples de carteira iniciante:
 * 70% Renda Fixa
 * 30% Renda Variável
 
 
 ## 8️⃣ Erros Comuns de Iniciantes
 
-Investir sem reserva de emergência
-Ignorar inflação
-Seguir “dicas quentes”
-Não entender o produto antes de investir
-Não diversificar
+* Investir sem reserva de emergência
+* Ignorar inflação
+* Seguir “dicas quentes”
+* Não entender o produto antes de investir
+* Não diversificar
 
 
 ## 9️⃣ Glossário Essencial
@@ -168,35 +168,35 @@ Princípio regulatório que determina adequação do produto ao perfil do invest
 
 ## 🔟 Prompts Reutilizáveis para Revisão
 
-✔ Resuma os conceitos principais em 15 tópicos.
-✔ Compare renda fixa e variável em tabela.
-✔ Explique risco x retorno para iniciantes.
-✔ Simule carteira conservadora com R$ 2.000.
-✔ Gere 8 questões de múltipla escolha com gabarito.
-✔ Liste diferenças entre Tesouro Selic e IPCA.
+### ✔ Resuma os conceitos principais em 15 tópicos.
+### ✔ Compare renda fixa e variável em tabela.
+####✔ Explique risco x retorno para iniciantes.
+### ✔ Simule carteira conservadora com R$ 2.000.
+### ✔ Gere 8 questões de múltipla escolha com gabarito.
+### ✔ Liste diferenças entre Tesouro Selic e IPCA.
 
 
 ## 🧠 Metodologia de Aprendizagem
 
-Este miniguia foi construído por meio de:
-Curadoria de fontes abertas
-Formulação de perguntas estratégicas
-Testes de variações de prompts
-Registro de respostas com citações
-Análise crítica das respostas
-A utilização do NotebookLM permitiu:
-Organizar informações
-Comparar fontes
-Consolidar conhecimento de forma estruturada
+### Este miniguia foi construído por meio de:
+* Curadoria de fontes abertas
+* Formulação de perguntas estratégicas
+* Testes de variações de prompts
+* Registro de respostas com citações
+* Análise crítica das respostas
+* A utilização do NotebookLM permitiu:
+* Organizar informações
+* Comparar fontes
+* Consolidar conhecimento de forma estruturada
 
 
 ## 📎 Referências Utilizadas
 
-Materiais institucionais públicos de:
-Banco Central do Brasil
-Comissão de Valores Mobiliários
-Tesouro Direto
-Fundação Getulio Vargas
+### Materiais institucionais públicos de:
+* Banco Central do Brasil
+* Comissão de Valores Mobiliários
+* Tesouro Direto
+* Fundação Getulio Vargas
 
 
 
